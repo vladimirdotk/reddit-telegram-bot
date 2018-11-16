@@ -8,6 +8,7 @@ praw = "*"
 python-dotenv = "*"
 pytelegrambotapi = "*"
 pysocks = "*"
+aiohttp = "*"
 
 [dev-packages]
 pylint = "*"
