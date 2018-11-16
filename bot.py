@@ -3,7 +3,7 @@ import praw
 import os
 import telebot
 import time
-from .webhook import WebHook
+from webhook import WebHook
 from dotenv import load_dotenv
 
 welcome_message = """
